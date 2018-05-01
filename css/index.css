@@ -32,6 +32,11 @@ body {
     text-decoration: underline;
     display: inline-block;
     margin-left: 600px;
+    cursor: pointer;
+}
+
+.menu:hover{
+    color: white;
 }
 
 .right {
@@ -48,6 +53,11 @@ body {
     display: inline-block;
     margin-top: 30px;
     margin-left: 350px;
+    cursor: pointer;
+}
+
+.full:hover {
+    color: pink;
 }
 
 .left{
